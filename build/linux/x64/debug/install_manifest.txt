@@ -1,0 +1,13 @@
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/app1
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/phumulamudau/app1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
